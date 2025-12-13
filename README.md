@@ -33,8 +33,6 @@
 
 <br/>
 
----
-
 <br/>
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
