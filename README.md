@@ -33,6 +33,8 @@
 <br/>
 
 <br/>
+<img alt="Quote" src="https://camo.githubusercontent.com/05ffaf27788b3353333c0052a8545c8867e302ec09aa8d602093b89e8dcea87c/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d746f6b796f6e6967687426616e696d6174696f6e3d67726f775f6f75745f696e2671756f746543617465676f72793d70726f6772616d6d696e67" data-canonical-src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight&amp;animation=grow_out_in&amp;quoteCategory=programming" style="max-width: 100%;">
+
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="nimarhirfan31@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
